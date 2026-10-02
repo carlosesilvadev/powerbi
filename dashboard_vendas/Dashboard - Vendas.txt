@@ -1,0 +1,6 @@
+Dashboard - Vendas:
+
+- Faturamento
+- Produto Mais Vendido
+- Análise por Localidade/Continente
+- Qtd. Vendas Mensal
